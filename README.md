@@ -54,4 +54,20 @@ z = x + y;  // Assign the sum of x and y to z
 print("Hello, World!")
 ```
 
+|Fsirt|Second|Thrid|
+|:-------|:-------:|-------:|
+|call me|call me at night|call you back soon|
+|call me|call me at night|call you back soon|
+|call me|call me at night|call you back soon|
+
+:+1:
+:sparkles:
+:tada:
+:rocket:
+:metal:
+
+
+**Markdown**
+## Markdown
+```Markdown
 
