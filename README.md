@@ -26,4 +26,4 @@ __This text will be italic__
    * Item 3a
    * Item 3b
 
-![高科大](高科大.png)
+![高科大](高科大.png"高科大")
