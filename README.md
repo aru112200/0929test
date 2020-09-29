@@ -40,4 +40,7 @@ As Kanyne West said:
 
 \!literal asterisks\!
 
+- [x] @mentions
+- [ ] @mentions
+
 
