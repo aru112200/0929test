@@ -29,3 +29,15 @@ __This text will be italic__
 ![高科大](高科大.png "高科大")
 
 [高科大 首頁](https://www.nkust.edu.tw/)
+
+As Kanyne West said:
+> We're living the future so 
+> the present is our past.
+
+\*literal asterisks\*
+
+\[literal asterisks\]
+
+\!literal asterisks\!
+
+
